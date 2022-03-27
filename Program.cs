@@ -9,14 +9,14 @@ namespace HW12
         {
             var userWithPremium = new User()
             {
-                Login = "qwerty",
+                Login = "qwerty1",
                 Name = "Alex",
                 IsPremium = true
             };
 
             var userWithoutPremium = new User()
             {
-                Login = "qwerty",
+                Login = "qwerty2",
                 Name = "Peter",
                 IsPremium = false
             };
